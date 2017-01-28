@@ -1,0 +1,724 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"console",
+				"console.warn"
+			],
+			[
+				"test_no",
+				"test_norollup.js"
+			],
+			[
+				"j",
+				"jquery-colorbox/"
+			],
+			[
+				"error",
+				"error\tEvent"
+			],
+			[
+				"require",
+				"module.require"
+			],
+			[
+				"read",
+				"ready\t$(document).ready"
+			],
+			[
+				"rea",
+				"ready\t$(document).ready"
+			],
+			[
+				"test",
+				"test_module.js"
+			],
+			[
+				"log",
+				"console.log()"
+			],
+			[
+				"buffer",
+				"Buffer"
+			],
+			[
+				"sp",
+				"script\tTag"
+			],
+			[
+				"json",
+				"json.aspx.cs.bak"
+			],
+			[
+				"bg",
+				"bgi\tbackground-image: url(${0});"
+			],
+			[
+				"get",
+				"get\tGet Elements"
+			],
+			[
+				"bet",
+				"betAmount_click〔function〕"
+			],
+			[
+				"crea",
+				"createElementNS (fn/2)"
+			],
+			[
+				"docu",
+				"document (obj)"
+			],
+			[
+				"Date",
+				"Date (fn/1)"
+			],
+			[
+				"aj",
+				"ajaxComplete〔function〕"
+			],
+			[
+				"a",
+				"ajax〔function〕"
+			],
+			[
+				"tri",
+				"attributeContains〔function〕"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"du",
+				"document (obj)"
+			],
+			[
+				"jqu",
+				"jQuery (fn/0)"
+			],
+			[
+				"getda",
+				"getUTCDate (fn/0)"
+			],
+			[
+				"add",
+				"addEventListener (fn/1)"
+			],
+			[
+				"set",
+				"setTimeout (fn)"
+			],
+			[
+				"createServ",
+				"net._createServerHandle(address, port, addressType, fd);"
+			],
+			[
+				"create",
+				"http.createServer(requestListener);"
+			],
+			[
+				"d",
+				"desc\tBDD describe"
+			],
+			[
+				"fu",
+				"function (?)"
+			],
+			[
+				"Global",
+				"repl.REPLServer(prompt,\n                    stream,\n                    eval_,\n                    useGlobal,\n                    ignoreUndefined,\n                    replMode);"
+			],
+			[
+				"listen",
+				"cluster.listeners(type);"
+			],
+			[
+				"behind",
+				"behindBetAmount〔variable〕"
+			],
+			[
+				"scri",
+				"script"
+			],
+			[
+				"lo",
+				"console.log();"
+			],
+			[
+				"node",
+				"node.http.createServer\tSnippet: HTTP Create Server"
+			],
+			[
+				"prces",
+				"process._debugProcess();"
+			],
+			[
+				"re",
+				"require.resolve(request);"
+			],
+			[
+				"close",
+				"fs.close(fd, callback);"
+			],
+			[
+				"fs",
+				"fs.close(fd, callback);"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack ",
+				"Package Control: Enable Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pc disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"linter to",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"markstyl",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"html tidy",
+				"HTMLPrettify: Set `node` Path"
+			],
+			[
+				"lint",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"tern:",
+				"tern_for_sublime: Describe"
+			],
+			[
+				"pa remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pc re",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereload",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"project",
+				"Project Manager"
+			],
+			[
+				"parepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pdis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"pcd",
+				"Package Control: Disable Package"
+			],
+			[
+				"nodejs:",
+				"Nodejs::UglifyJS"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pic",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 446.0
+	},
+	"console":
+	{
+		"height": 318.0,
+		"history":
+		[
+			"npm",
+			"clear",
+			"cls",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Skills/Projects/AdminLTE/AdminLTE-baseFrame/AdminLTE-baseFrame"
+	],
+	"file_history":
+	[
+		"/E/Skills/Projects/Less/HelloWorld/test.less",
+		"/E/Skills/Projects/Less/HelloWorld/Functions.less",
+		"/C/Users/ChenShao/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/E/Skills/Projects/Less/HelloWorld/f.js",
+		"/E/Skills/Projects/Less/HelloWorld/test.css",
+		"/E/Skills/Projects/Less/HelloWorld/Functions.css",
+		"/E/Skills/Projects/Less/HelloWorld/Other.css",
+		"/E/Skills/Projects/Less/HelloWorld/Other.less",
+		"/E/Skills/Projects/Less/HelloWorld/Overview.less",
+		"/E/Skills/Projects/Less/HelloWorld/Overview.css",
+		"/E/Skills/Projects/Less/HelloWorld/Extend.less",
+		"/E/Skills/Projects/Less/HelloWorld/Extend.css",
+		"/C/Users/ChenShao/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/E/Skills/Projects/Less/HelloWorld/Directives.css",
+		"/E/Skills/Projects/Less/HelloWorld/library.less",
+		"/E/Skills/Projects/Less/HelloWorld/Directives.less",
+		"/E/Skills/Projects/Less/HelloWorld/typo.css",
+		"/E/Skills/Projects/Less/HelloWorld/Mixins.less",
+		"/E/Skills/Projects/Less/HelloWorld/Minxins.css",
+		"/C/Users/ChenShao/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/ChenShao/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/E/Skills/Projects/Less/HelloWorld/typo.cssRRR",
+		"/E/Skills/Projects/Less/less.sublime-project",
+		"/C/Users/ChenShao/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Main.sublime-menu",
+		"/F/JavaScript/Projects/uptool/uptool.sublime-project",
+		"/C/Users/ChenShao/Desktop/index.html",
+		"/C/Users/ChenShao/Desktop/Comment.vue",
+		"/F/JavaScript/Projects/uptool/app/test_colorbox.html",
+		"/F/JavaScript/Projects/uptool/app/test/thankyou.html",
+		"/F/JavaScript/Projects/uptool/app/test_colorbox.js",
+		"/F/JavaScript/Projects/uptool/app/common.js",
+		"/D/JavaScript/Projects/uptool/app/hello_world/hello_universe.js",
+		"/D/JavaScript/Projects/uptool/.gitignore",
+		"/D/JavaScript/Projects/uptool/app/app.html",
+		"/D/JavaScript/Projects/uptool/app/common.js",
+		"/D/JavaScript/Projects/uptool/README.md",
+		"/D/JavaScript/Projects/uptool/说明.md",
+		"/D/JavaScript/Projects/uptool/.jshintrc",
+		"/D/JavaScript/Projects/uptool/tasks/build/build.js",
+		"/D/JavaScript/Projects/uptool/tasks/start.js",
+		"/D/JavaScript/Projects/uptool/app/test_norollup.html",
+		"/D/JavaScript/Projects/uptool/app/helpers/test_norollup.js",
+		"/D/JavaScript/Projects/uptool/app/test_colorbox.js",
+		"/D/JavaScript/Projects/uptool/app/helpers/hello_world/hello_world.js",
+		"/D/JavaScript/Projects/uptool/app/app.js",
+		"/D/JavaScript/Projects/uptool/app/background.js",
+		"/D/JavaScript/Projects/uptool/app/helpers/window.js",
+		"/D/JavaScript/Projects/uptool/app/test_colorbox - 复制.html",
+		"/D/JavaScript/Projects/uptool/app/test_colorbox.html",
+		"/D/JavaScript/Projects/uptool/gulpfile.js",
+		"/D/JavaScript/Projects/uptool/package.json",
+		"/D/JavaScript/Projects/uptool/tasks/build/bundle.js",
+		"/C/Users/ChenShao/Desktop/20160526.log",
+		"/D/JavaScript/Projects/uptool/app/test_norollup.js",
+		"/D/JavaScript/Projects/uptool/app/helpers/test_colorbox.js",
+		"/D/JavaScript/Projects/uptool/app/helpers/dev_menu_template.js",
+		"/D/JavaScript/Projects/uptool/node_modules/rollup/README.md",
+		"/D/JavaScript/Projects/uptool/tasks/build/generate_spec_imports.js",
+		"/D/JavaScript/Projects/uptool/node_modules/is-utf8/README.md",
+		"/D/JavaScript/Projects/uptool/app/package.json",
+		"/D/JavaScript/Projects/uptool/colorbox.html",
+		"/D/JavaScript/Projects/uptool/app/test/test_module_module.js",
+		"/D/JavaScript/Projects/uptool/app/test_module.js",
+		"/D/Electron/Projects/npmTest/package.json",
+		"/D/Electron/Projects/npmTest/log.js",
+		"/C/Users/ChenShao/Desktop/lodashDOC/assign.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/assignIn.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/assignInWith.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/assignWith.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/at.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/attempt.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/before.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/bind.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/bindAll.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/bindKey.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/camelCase.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/capitalize.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/castArray.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/ceil.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/chain.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/chunk.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/clamp.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/clone.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/cloneDeep.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/cloneDeepWith.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/cloneWith.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/compact.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/concat.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/cond.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/conforms.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/constant.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/countBy.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/create.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/curry.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/curryRight.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/custom-builds.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/debounce.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/deburr.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/defaults.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/defaultsDeep.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/defer.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/delay.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/difference.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/differenceBy.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/differenceWith.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/drop.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/dropRight.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/dropRightWhile.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/dropWhile.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/endsWith.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/eq.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/escape.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/escapeRegExp.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/every.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/fill.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/filter.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/find.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/findIndex.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/findKey.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/findLast.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/findLastIndex.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/findLastKey.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/flatMap.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/flatten.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/flattenDeep.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/flattenDepth.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/flip.htm",
+		"/C/Users/ChenShao/Desktop/lodashDOC/floor.htm"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"C:\\Users\\ChenShao\\Desktop\\lodashDOC,*.html,*.htm",
+			"D:\\doNet\\Soft\\NodeJS\\Projects\\NodeExpressCode\\ch17\\"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");\n",
+			" //",
+			"library",
+			"    \n",
+			"copy-watch",
+			"652203",
+			"652199",
+			"629538",
+			"greet",
+			"import {",
+			"<!-- baidu统计 -->([\\w\\W])*?</script>",
+			"env",
+			"env_",
+			"env",
+			"dealerCache",
+			"山陇",
+			"address",
+			"中文",
+			"这里",
+			"//",
+			"异步",
+			"要",
+			"重复",
+			"#",
+			"\\###",
+			"###",
+			"##",
+			"setTimeout",
+			"getWeatherData",
+			"geocodeDealer",
+			"Dealer",
+			"dealerCache",
+			"twitter",
+			"bearerToken",
+			"CTRL SHIFT C",
+			"CTRL ALT D",
+			"open",
+			"Go",
+			"err",
+			"erR",
+			"err",
+			"done",
+			"CTRL SHIFT C",
+			"ctrl Alt h",
+			"done",
+			"dOne",
+			"done",
+			"deserializeUser",
+			"getCustomerViewModel",
+			"config.js",
+			"handlebars",
+			"static",
+			"?",
+			"chdir",
+			"sidebar_container",
+			"tab",
+			"codeintel_scan_files_in_project",
+			"codeintel_language_settings",
+			"brackethighlighter",
+			"F12",
+			"url_testing",
+			"style",
+			"color",
+			"tab"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"const",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.nodejs":
+	{
+		"height": 124.0
+	},
+	"output.tooltips":
+	{
+		"height": 162.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "AdminLTE-baseFrame.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"config",
+				"ch16\\config.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
