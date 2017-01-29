@@ -75,6 +75,7 @@
       font-size: 11px;
       > .fa,
       > .ion,
+      > .iconfont,
       > .glyphicon {
         margin-right: 3px;
       }
@@ -97,6 +98,7 @@
       display: block;
       > .fa,
       > .glyphicon,
+      > .iconfont,
       > .ion {
         width: 20px;
       }
@@ -113,6 +115,8 @@
     padding: 10px 25px 10px 15px;
     font-size: 12px;
   }
+  li > a > .icon-right,
+  li > a > .pull-right-container > .icon-right,
   li > a > .fa-angle-left,
   li > a > .pull-right-container > .fa-angle-left {
     width: auto;
@@ -120,6 +124,7 @@
     padding: 0;
     margin-right: 10px;
   }
+  li > a > .icon-right,
   li > a > .fa-angle-left {
     position: absolute;
     top: 50%;
@@ -127,6 +132,8 @@
     margin-top: -8px;
   }
   li.active {
+    > a > .icon-right,
+    > a > .pull-right-container > .icon-right,
     > a > .fa-angle-left,
     > a > .pull-right-container > .fa-angle-left {
       .rotate(-90deg);
@@ -154,9 +161,14 @@
         font-size: 14px;
         > .fa,
         > .glyphicon,
+        > .iconfont,
         > .ion {
           width: 20px;
         }
+        > .pull-right-container > .icon-right,
+        > .pull-right-container > .icon-down,
+        > .icon-right,
+        > .icon-down,
         > .pull-right-container > .fa-angle-left,
         > .pull-right-container > .fa-angle-down,
         > .fa-angle-left,
